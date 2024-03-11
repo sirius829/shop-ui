@@ -27,5 +27,4 @@ ionic serve
 
 Alternatively, you can add the iOS, Android platform and run natively. Keep in mind though, the Native scanner will only work on a physical device.
 
-# Are you on Twitter? Lets connect [@93alan](https://twitter.com/93alan)
 # Have you checked out Ionic React Hub yet? [Ionic React Hub](https://ionicreacthub.com)
